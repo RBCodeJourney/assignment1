@@ -266,6 +266,7 @@ button {
     border-top-left-radius: 40px;
     border-bottom-left-radius: 40px;
     width: 250px;
+    font-size: 14px;
 }
 
 .email-input button {
@@ -275,6 +276,8 @@ button {
     cursor: pointer;
     /* padding-right: 16px; */
     width: 100px;
+    color: #FFF;
+    font-size: 14px;
 }
 
 
